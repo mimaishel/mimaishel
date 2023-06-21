@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portraitImg.png" width="220" height="220"/><br/><br/>
+  <img src="https://raw.githubusercontent.com/feifyKike/feifyKike/main/portraitImg.png" width="220" height="220"/><br/><br/>
   <samp>
     Hey, I'm Maxim 👋 <br/>
     :wolf: Computer science student & a dude who enjoys building useful software<br/>
