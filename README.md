@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/feifyKike/feifyKike/main/portraitImg.png" width="220" height="220"/><br/><br/>
   <samp>
     Hey, I'm Maxim 👋 <br/>
-    :wolf: Computer science student & a dude who enjoys building useful software<br/>
-    :computer: Web Dev Intern @ NCSU ECE WolfTech IT<br/>
+    Computer science student & a dude who enjoys building useful software<br/>
+    Web Dev Intern @ NCSU ECE WolfTech IT<br/>
     :briefcase: Portfolio... https://maximshelepov.com <br/>
     :pancakes: Recent Stack... PHP, JS, Vue, Tailwind, MySQL <br/>
     :mailbox: How to reach me... <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvEu3_VYha6z6ppqmgrgJsbnAfdNtXu2nB8IqBSQJlX-4vaA/viewform?embedded=true">Contact Form</a> <br/>
