@@ -8,7 +8,7 @@
     :pancakes: Recent Stack... PHP, JS, Vue, Tailwind, MySQL <br/>
     :mailbox: How to reach me... <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvEu3_VYha6z6ppqmgrgJsbnAfdNtXu2nB8IqBSQJlX-4vaA/viewform?embedded=true">Contact Form</a> <br/>
     ----- <br/>
-    :mag: Currently seeking web and software development positions/internships in the RTP area for spring & summer 2024. Also looking to build a team for project & startup ideas or just make professional connections.<br/>
+    :mag: Currently seeking web and software development positions/internships in the RTP area for fall 2023 & spring 2024. Also looking to build a team for project & startup ideas or just make professional connections.<br/>
     <sub>P.S. Hand-drawn profile graphic with Procreate and Ipad Pro + apple pencil</sub>
   </samp>
 </p>
