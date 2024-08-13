@@ -1,15 +1,17 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/feifyKike/feifyKike/main/portraitImg.png" width="220" height="220"/><br/><br/>
+</div>
+<p align="left">
   <samp>
     Hey, I'm Maxim 👋 <br/>
-    Computer science student & a guy who enjoys building useful software<br/>
-    Web Dev Intern @ NCSU ECE WolfTech IT<br/>
-    :briefcase: Portfolio... https://maximshelepov.com <br/>
-    :pancakes: Recent Stack... PHP, JS, Vue, Tailwind, MySQL <br/>
+    Computer science student & a guy who enjoys building useful software.<br/>
+    Former Web Dev Intern @ NCSU ECE WolfTech IT.<br/>
+    Currently developing an educational ai tool as part of a stealth startup.<br/>
+    :briefcase: Portfolio... https://maxshelepov.com <br/>
+    :pancakes: Recent Stack... PHP, Python, JS, Vue, Tailwind, MySQL <br/>
     :mailbox: How to reach me... <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvEu3_VYha6z6ppqmgrgJsbnAfdNtXu2nB8IqBSQJlX-4vaA/viewform?embedded=true">Contact Form</a> <br/>
     ----- <br/>
-    :mag: Currently seeking web and software development positions/internships in the RTP area for summer 2024. Also looking to build a team for project & startup ideas or just make professional connections.<br/>
-    <sub>P.S. Hand-drawn profile graphic with Procreate and Ipad Pro + apple pencil</sub>
+    :mag: Currently seeking full-time software engineering positions in the Research Triangle Park or New York State area.
   </samp>
 </p>
 <!--
