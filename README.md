@@ -9,7 +9,7 @@
     Currently developing an educational AI tool aimed at redefining how college students interact with AI.<br/>
     :briefcase: Portfolio... https://maxshelepov.com <br/>
     :pancakes: Recent Stack... Python, PHP, JS, Vue, Tailwind, MySQL <br/>
-    :mailbox: How to reach me... <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvEu3_VYha6z6ppqmgrgJsbnAfdNtXu2nB8IqBSQJlX-4vaA/viewform?embedded=true">Contact Form</a> <br/>
+    :mailbox: How to reach me... Shoot me an email <br/>
     ----- <br/>
     :mag: Actively seeking full-time software development positions as a May 2025 graduate.
   </samp>
