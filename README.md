@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/feifyKike/feifyKike/main/portraitImg.png" width="220" height="220"/><br/><br/>
+  <img src="https://raw.githubusercontent.com/feifyKike/feifyKike/main/recentportrait.png" width="220"/><br/><br/>
 </div>
 <p align="left">
   <samp>
@@ -10,8 +10,6 @@
     :briefcase: Portfolio... https://maxshelepov.com <br/>
     :pancakes: Recent Stack... Python, PHP, JS, Vue, Tailwind, MySQL <br/>
     :mailbox: How to reach me... <a href="mailto:mimaishel@gmail.com">mimaishel@gmail.com</a> <br/>
-    ----- <br/>
-    :mag: Actively seeking full-time software development positions as a May 2025 graduate.
   </samp>
 </p>
 <!--
