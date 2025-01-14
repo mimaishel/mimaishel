@@ -8,7 +8,7 @@
     Former Web Dev Intern @ NCSU ECE WolfTech IT.<br/>
     Currently developing an educational AI tool aimed at redefining how college students interact with AI.<br/>
     :briefcase: Portfolio... https://maxshelepov.com <br/>
-    :pancakes: Recent Stack... Python, PHP, JS, Vue, Tailwind, MySQL <br/>
+    :pancakes: Recent Stack... Python, JS, Java, PHP, Vue, Tailwind, MariaDB <br/>
     :mailbox: How to reach me... <a href="mailto:mimaishel@gmail.com">mimaishel@gmail.com</a> <br/>
   </samp>
 </p>
