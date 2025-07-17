@@ -4,11 +4,15 @@
 <p align="left">
   <samp>
     Hey, I'm Maxim 👋 <br/>
-    Computer science senior & a guy who enjoys building useful software.<br/>
+    A software developer and simply an engineer who enjoys building useful software.<br/>
+    ⏮️ Rewind<br/>
+    Former founder of an educational AI tool aimed at redefining how college students interact with AI.<br/>
     Former Web Dev Intern @ NCSU ECE WolfTech IT.<br/>
-    Currently developing an educational AI tool aimed at redefining how college students interact with AI.<br/>
+    👇 Now<br/>
+    Currently making software at IBM, based out of Austin, TX.<br/>
+    🔗 Links<br/>
     :briefcase: Portfolio... https://maxshelepov.com <br/>
-    :pancakes: Recent Stack... Python, JS, TS, Java, PHP, Vue, React, Tailwind <br/>
+    :pancakes: Recent Stack... Node.js, JS, TS, React.js, Vue.js, HTML, CSS, SASS, Tailwind, Python, Java, PHP <br/>
     :mailbox: How to reach me... <a href="mailto:mimaishel@gmail.com">mimaishel@gmail.com</a> <br/>
   </samp>
 </p>
