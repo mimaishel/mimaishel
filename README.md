@@ -13,7 +13,7 @@
     🔗 Links<br/>
     :briefcase: Portfolio... https://maxshelepov.com <br/>
     :pancakes: Recent Stack... Node.js, JS, TS, React.js, Vue.js, HTML, CSS, SASS, Tailwind, Python, Java, PHP <br/>
-    :mailbox: How to reach me... <a href="mailto:mimaishel@gmail.com">mimaishel@gmail.com</a> <br/>
+    :mailbox: How to reach me... mimaishel [at] gmail.com <br/>
   </samp>
 </p>
 <!--
