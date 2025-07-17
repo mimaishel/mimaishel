@@ -6,14 +6,14 @@
     Hey, I'm Maxim 👋 <br/>
     A software developer and simply an engineer who enjoys building useful software.<br/>
     ⏮️ Rewind<br/>
-    Former founder of an educational AI tool aimed at redefining how college students interact with AI.<br/>
-    Former Web Dev Intern @ NCSU ECE WolfTech IT.<br/>
+    Former founder of <a href="https://blog.eduvaultai.com/">EduVaultAI</a>, an educational AI tool aimed at redefining how college students interact with AI.<br/>
+    Former Web Dev Intern @ NCSU ECE <a href="https://tools.wolftech.ncsu.edu/">WolfTech</a> IT.<br/>
     👇 Now<br/>
-    Currently making software at IBM, based out of Austin, TX.<br/>
+    Currently making software at <a href="https://www.ibm.com/cloud">IBM Cloud</a>, based out of Austin, TX.<br/>
     🔗 Links<br/>
     :briefcase: Portfolio... https://maxshelepov.com <br/>
     :pancakes: Recent Stack... Node.js, JS, TS, React.js, Vue.js, HTML, CSS, SASS, Tailwind, Python, Java, PHP <br/>
-    :mailbox: How to reach me... mimaishel [at] gmail.com <br/>
+    :mailbox: How to reach me... mimaishel[at]gmail.com <br/>
   </samp>
 </p>
 <!--
