@@ -1,7 +1,7 @@
 <p align="left">
   <samp>
     Hey, I'm Maxim 👋 <br/>
-    A software developer and simply an engineer who enjoys building useful software.<br/>
+    A software developer and simply an engineer who enjoys building useful software.<br/><br/>
     ⏮️ Rewind<br/>
     - Former founder of <a href="https://blog.eduvaultai.com/">EduVaultAI</a>, an educational AI tool aimed at redefining how college students interact with AI.<br/>
     - Former Web Dev Intern @ NCSU ECE <a href="https://tools.wolftech.ncsu.edu/">WolfTech</a> IT.<br/>
