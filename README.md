@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/feifyKike/feifyKike/main/recentportrait.png" width="220"/><br/><br/>
-</div>
 <p align="left">
   <samp>
     Hey, I'm Maxim 👋 <br/>
